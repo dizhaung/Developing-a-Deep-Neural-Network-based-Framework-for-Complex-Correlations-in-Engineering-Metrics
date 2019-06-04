@@ -3,7 +3,8 @@
 /                                       /
 /---------------------------------------/
 
-Audience: Anyone with beginner level of python programming skills, and looking for a simple code for deep neural netwroks to cunduct regression analysis
+Audience: Anyone with beginner level of python programming skills, and looking for a simple code for deep neural netwroks
+to cunduct regression analysis
 
 This code was originally used in the paper "..."
 If you are using this code, please cite this paper and following libraries (KERAS, scikit-learn, and tensorflow, SHAP)
